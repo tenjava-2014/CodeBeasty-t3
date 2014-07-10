@@ -1,0 +1,3 @@
+name: CodeBeasty-t3
+main: com.tenjava.entries.CodeBeasty.t3.TenJava
+version: '${project.version}'
